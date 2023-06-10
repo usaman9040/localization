@@ -1,0 +1,5 @@
+{
+  "language": "Español",
+  "appTitle": "Flutter Localización",
+  "hello": "Hola {username}"
+}
